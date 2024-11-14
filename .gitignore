@@ -1,0 +1,4 @@
+*.env
+**/__pycache__/*
+
+python_sample\project\project\local_settings.py
